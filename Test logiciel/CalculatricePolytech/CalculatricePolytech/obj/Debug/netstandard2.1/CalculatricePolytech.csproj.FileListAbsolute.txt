@@ -1,0 +1,10 @@
+D:\travaux\Cours\Testing\CalculatricePolytech\CalculatricePolytech\bin\Debug\netstandard2.1\CalculatricePolytech.deps.json
+D:\travaux\Cours\Testing\CalculatricePolytech\CalculatricePolytech\bin\Debug\netstandard2.1\CalculatricePolytech.dll
+D:\travaux\Cours\Testing\CalculatricePolytech\CalculatricePolytech\bin\Debug\netstandard2.1\CalculatricePolytech.pdb
+D:\travaux\Cours\Testing\CalculatricePolytech\CalculatricePolytech\obj\Debug\netstandard2.1\CalculatricePolytech.csproj.AssemblyReference.cache
+D:\travaux\Cours\Testing\CalculatricePolytech\CalculatricePolytech\obj\Debug\netstandard2.1\CalculatricePolytech.GeneratedMSBuildEditorConfig.editorconfig
+D:\travaux\Cours\Testing\CalculatricePolytech\CalculatricePolytech\obj\Debug\netstandard2.1\CalculatricePolytech.AssemblyInfoInputs.cache
+D:\travaux\Cours\Testing\CalculatricePolytech\CalculatricePolytech\obj\Debug\netstandard2.1\CalculatricePolytech.AssemblyInfo.cs
+D:\travaux\Cours\Testing\CalculatricePolytech\CalculatricePolytech\obj\Debug\netstandard2.1\CalculatricePolytech.csproj.CoreCompileInputs.cache
+D:\travaux\Cours\Testing\CalculatricePolytech\CalculatricePolytech\obj\Debug\netstandard2.1\CalculatricePolytech.dll
+D:\travaux\Cours\Testing\CalculatricePolytech\CalculatricePolytech\obj\Debug\netstandard2.1\CalculatricePolytech.pdb

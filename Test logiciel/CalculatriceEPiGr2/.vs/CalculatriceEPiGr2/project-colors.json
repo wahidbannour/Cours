@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99389fa1-3a50-461f-ae38-2b89a9b3b8b9": {
+      "ProjectGuid": "99389fa1-3a50-461f-ae38-2b89a9b3b8b9",
+      "DisplayName": "CalculatriceEPiGr2",
+      "ColorIndex": 0
+    },
+    "f0ef7963-a89f-40b2-8bed-0c053658076a": {
+      "ProjectGuid": "f0ef7963-a89f-40b2-8bed-0c053658076a",
+      "DisplayName": "CalculatriceTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d2fd111-e520-490e-8c45-44802df9e217": {
+      "ProjectGuid": "8d2fd111-e520-490e-8c45-44802df9e217",
+      "DisplayName": "TestCalculatrice",
+      "ColorIndex": 0
+    },
+    "109467ab-ed9c-4ef6-8e29-b4c43f255ad1": {
+      "ProjectGuid": "109467ab-ed9c-4ef6-8e29-b4c43f255ad1",
+      "DisplayName": "Calculatrice",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "47fb1fd2-e5b5-40a4-8108-14a0d5c78c4b": {
+      "ProjectGuid": "47fb1fd2-e5b5-40a4-8108-14a0d5c78c4b",
+      "DisplayName": "WpfCalculatrice",
+      "ColorIndex": 2
+    },
+    "fb52dbb8-1ef3-4db1-ba79-ac0927aad0bd": {
+      "ProjectGuid": "fb52dbb8-1ef3-4db1-ba79-ac0927aad0bd",
+      "DisplayName": "WebCalculatrice",
+      "ColorIndex": 3
+    },
+    "8894f530-a9ec-4505-a41e-f0f1947b52cd": {
+      "ProjectGuid": "8894f530-a9ec-4505-a41e-f0f1947b52cd",
+      "DisplayName": "TestProjectCore",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

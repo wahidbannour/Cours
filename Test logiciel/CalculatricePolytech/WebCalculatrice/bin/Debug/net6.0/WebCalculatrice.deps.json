@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebCalculatrice/1.0.0": {
+        "runtime": {
+          "WebCalculatrice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebCalculatrice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

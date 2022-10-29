@@ -1,0 +1,15 @@
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\bin\Debug\net6.0\CalculatriceEPiGr2.exe
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\bin\Debug\net6.0\CalculatriceEPiGr2.deps.json
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\bin\Debug\net6.0\CalculatriceEPiGr2.runtimeconfig.json
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\bin\Debug\net6.0\CalculatriceEPiGr2.dll
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\bin\Debug\net6.0\ref\CalculatriceEPiGr2.dll
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\bin\Debug\net6.0\CalculatriceEPiGr2.pdb
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\obj\Debug\net6.0\CalculatriceEPiGr2.csproj.AssemblyReference.cache
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\obj\Debug\net6.0\CalculatriceEPiGr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\obj\Debug\net6.0\CalculatriceEPiGr2.AssemblyInfoInputs.cache
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\obj\Debug\net6.0\CalculatriceEPiGr2.AssemblyInfo.cs
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\obj\Debug\net6.0\CalculatriceEPiGr2.csproj.CoreCompileInputs.cache
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\obj\Debug\net6.0\CalculatriceEPiGr2.dll
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\obj\Debug\net6.0\ref\CalculatriceEPiGr2.dll
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\obj\Debug\net6.0\CalculatriceEPiGr2.pdb
+D:\travaux\Cours\Testing\CalculatriceEPiGr2\CalculatriceEPiGr2\obj\Debug\net6.0\CalculatriceEPiGr2.genruntimeconfig.cache
