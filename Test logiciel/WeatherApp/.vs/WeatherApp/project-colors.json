@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f84ef6b-158a-4efd-b9be-a15dd1b4718a": {
+      "ProjectGuid": "8f84ef6b-158a-4efd-b9be-a15dd1b4718a",
+      "DisplayName": "WeatherApp.Server",
+      "ColorIndex": 0
+    },
+    "e4244602-0a2d-4876-ac4c-8dbe6086f37f": {
+      "ProjectGuid": "e4244602-0a2d-4876-ac4c-8dbe6086f37f",
+      "DisplayName": "WeatherApp.Client",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

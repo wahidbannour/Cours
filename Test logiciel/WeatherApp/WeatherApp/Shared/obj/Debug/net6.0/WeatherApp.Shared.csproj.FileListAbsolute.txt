@@ -1,0 +1,12 @@
+D:\travaux\Cours\Testing\TP\WeatherApp\WeatherApp\Shared\bin\Debug\net6.0\WeatherApp.Shared.deps.json
+D:\travaux\Cours\Testing\TP\WeatherApp\WeatherApp\Shared\bin\Debug\net6.0\WeatherApp.Shared.dll
+D:\travaux\Cours\Testing\TP\WeatherApp\WeatherApp\Shared\bin\Debug\net6.0\ref\WeatherApp.Shared.dll
+D:\travaux\Cours\Testing\TP\WeatherApp\WeatherApp\Shared\bin\Debug\net6.0\WeatherApp.Shared.pdb
+D:\travaux\Cours\Testing\TP\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.csproj.AssemblyReference.cache
+D:\travaux\Cours\Testing\TP\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\travaux\Cours\Testing\TP\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.AssemblyInfoInputs.cache
+D:\travaux\Cours\Testing\TP\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.AssemblyInfo.cs
+D:\travaux\Cours\Testing\TP\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.csproj.CoreCompileInputs.cache
+D:\travaux\Cours\Testing\TP\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.dll
+D:\travaux\Cours\Testing\TP\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\ref\WeatherApp.Shared.dll
+D:\travaux\Cours\Testing\TP\WeatherApp\WeatherApp\Shared\obj\Debug\net6.0\WeatherApp.Shared.pdb

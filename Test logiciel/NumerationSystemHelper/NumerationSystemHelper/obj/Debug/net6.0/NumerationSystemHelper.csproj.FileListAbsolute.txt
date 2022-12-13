@@ -1,0 +1,12 @@
+D:\travaux\Cours\Testing\TP\NumerationSystemHelper\NumerationSystemHelper\bin\Debug\net6.0\NumerationSystemHelper.deps.json
+D:\travaux\Cours\Testing\TP\NumerationSystemHelper\NumerationSystemHelper\bin\Debug\net6.0\NumerationSystemHelper.dll
+D:\travaux\Cours\Testing\TP\NumerationSystemHelper\NumerationSystemHelper\bin\Debug\net6.0\ref\NumerationSystemHelper.dll
+D:\travaux\Cours\Testing\TP\NumerationSystemHelper\NumerationSystemHelper\bin\Debug\net6.0\NumerationSystemHelper.pdb
+D:\travaux\Cours\Testing\TP\NumerationSystemHelper\NumerationSystemHelper\obj\Debug\net6.0\NumerationSystemHelper.csproj.AssemblyReference.cache
+D:\travaux\Cours\Testing\TP\NumerationSystemHelper\NumerationSystemHelper\obj\Debug\net6.0\NumerationSystemHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\travaux\Cours\Testing\TP\NumerationSystemHelper\NumerationSystemHelper\obj\Debug\net6.0\NumerationSystemHelper.AssemblyInfoInputs.cache
+D:\travaux\Cours\Testing\TP\NumerationSystemHelper\NumerationSystemHelper\obj\Debug\net6.0\NumerationSystemHelper.AssemblyInfo.cs
+D:\travaux\Cours\Testing\TP\NumerationSystemHelper\NumerationSystemHelper\obj\Debug\net6.0\NumerationSystemHelper.csproj.CoreCompileInputs.cache
+D:\travaux\Cours\Testing\TP\NumerationSystemHelper\NumerationSystemHelper\obj\Debug\net6.0\NumerationSystemHelper.dll
+D:\travaux\Cours\Testing\TP\NumerationSystemHelper\NumerationSystemHelper\obj\Debug\net6.0\ref\NumerationSystemHelper.dll
+D:\travaux\Cours\Testing\TP\NumerationSystemHelper\NumerationSystemHelper\obj\Debug\net6.0\NumerationSystemHelper.pdb

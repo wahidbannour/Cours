@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10c8ba73-322f-45c2-896f-d27a1beecc77": {
+      "ProjectGuid": "10c8ba73-322f-45c2-896f-d27a1beecc77",
+      "DisplayName": "NumerationSystemHelper",
+      "ColorIndex": 0
+    },
+    "ba1ce79c-e8ad-43c2-bed7-0539b697d528": {
+      "ProjectGuid": "ba1ce79c-e8ad-43c2-bed7-0539b697d528",
+      "DisplayName": "TestNumerationSystemHelper",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
