@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InfrastructureX/1.0.0": {
+        "dependencies": {
+          "SharedX": "1.0.0"
+        },
+        "runtime": {
+          "InfrastructureX.dll": {}
+        }
+      },
+      "SharedX/1.0.0": {
+        "runtime": {
+          "SharedX.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InfrastructureX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b46e0e5a-d6cd-44f5-88cb-cc207aa804f7": {
+      "ProjectGuid": "b46e0e5a-d6cd-44f5-88cb-cc207aa804f7",
+      "DisplayName": "SharedX",
+      "ColorIndex": 0
+    },
+    "b3e39f93-7c5a-4151-add8-ead37ff07c74": {
+      "ProjectGuid": "b3e39f93-7c5a-4151-add8-ead37ff07c74",
+      "DisplayName": "CoreX",
+      "ColorIndex": 1
+    },
+    "822adb4e-fe6b-40df-8934-da71254b9046": {
+      "ProjectGuid": "822adb4e-fe6b-40df-8934-da71254b9046",
+      "DisplayName": "InfrastructureX",
+      "ColorIndex": 2
+    },
+    "f452b735-f6f7-4a60-bfec-59a9c2a05cc6": {
+      "ProjectGuid": "f452b735-f6f7-4a60-bfec-59a9c2a05cc6",
+      "DisplayName": "ConsoleAppX",
+      "ColorIndex": 3
+    },
+    "e269ee9e-72c2-40f2-9a77-887f6b7ad776": {
+      "ProjectGuid": "e269ee9e-72c2-40f2-9a77-887f6b7ad776",
+      "DisplayName": "TestProjectX",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,15 @@
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\bin\Debug\net6.0\InfrastructureX.deps.json
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\bin\Debug\net6.0\InfrastructureX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\bin\Debug\net6.0\ref\InfrastructureX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\bin\Debug\net6.0\InfrastructureX.pdb
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\bin\Debug\net6.0\SharedX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\bin\Debug\net6.0\SharedX.pdb
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\obj\Debug\net6.0\InfrastructureX.csproj.AssemblyReference.cache
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\obj\Debug\net6.0\InfrastructureX.GeneratedMSBuildEditorConfig.editorconfig
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\obj\Debug\net6.0\InfrastructureX.AssemblyInfoInputs.cache
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\obj\Debug\net6.0\InfrastructureX.AssemblyInfo.cs
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\obj\Debug\net6.0\InfrastructureX.csproj.CoreCompileInputs.cache
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\obj\Debug\net6.0\InfrastructureX.csproj.CopyComplete
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\obj\Debug\net6.0\InfrastructureX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\obj\Debug\net6.0\ref\InfrastructureX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\InfrastructureX\obj\Debug\net6.0\InfrastructureX.pdb

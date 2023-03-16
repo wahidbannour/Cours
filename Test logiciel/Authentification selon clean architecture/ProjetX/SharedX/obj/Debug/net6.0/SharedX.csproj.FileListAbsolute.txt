@@ -1,0 +1,12 @@
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\SharedX\bin\Debug\net6.0\SharedX.deps.json
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\SharedX\bin\Debug\net6.0\SharedX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\SharedX\bin\Debug\net6.0\ref\SharedX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\SharedX\bin\Debug\net6.0\SharedX.pdb
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\SharedX\obj\Debug\net6.0\SharedX.csproj.AssemblyReference.cache
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\SharedX\obj\Debug\net6.0\SharedX.GeneratedMSBuildEditorConfig.editorconfig
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\SharedX\obj\Debug\net6.0\SharedX.AssemblyInfoInputs.cache
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\SharedX\obj\Debug\net6.0\SharedX.AssemblyInfo.cs
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\SharedX\obj\Debug\net6.0\SharedX.csproj.CoreCompileInputs.cache
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\SharedX\obj\Debug\net6.0\SharedX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\SharedX\obj\Debug\net6.0\ref\SharedX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\SharedX\obj\Debug\net6.0\SharedX.pdb

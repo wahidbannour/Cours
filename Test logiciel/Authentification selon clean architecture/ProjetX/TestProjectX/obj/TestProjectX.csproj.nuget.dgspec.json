@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\TestProjectX\\TestProjectX.csproj": {}
+  },
+  "projects": {
+    "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\CoreX\\CoreX.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\CoreX\\CoreX.csproj",
+        "projectName": "CoreX",
+        "projectPath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\CoreX\\CoreX.csproj",
+        "packagesPath": "C:\\Users\\Wahid\\.nuget\\packages\\",
+        "outputPath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\CoreX\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\SharedX\\SharedX.csproj": {
+                "projectPath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\SharedX\\SharedX.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\SharedX\\SharedX.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\SharedX\\SharedX.csproj",
+        "projectName": "SharedX",
+        "projectPath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\SharedX\\SharedX.csproj",
+        "packagesPath": "C:\\Users\\Wahid\\.nuget\\packages\\",
+        "outputPath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\SharedX\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\TestProjectX\\TestProjectX.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\TestProjectX\\TestProjectX.csproj",
+        "projectName": "TestProjectX",
+        "projectPath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\TestProjectX\\TestProjectX.csproj",
+        "packagesPath": "C:\\Users\\Wahid\\.nuget\\packages\\",
+        "outputPath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\TestProjectX\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\CoreX\\CoreX.csproj": {
+                "projectPath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\CoreX\\CoreX.csproj"
+              },
+              "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\SharedX\\SharedX.csproj": {
+                "projectPath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\ProjetX\\SharedX\\SharedX.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

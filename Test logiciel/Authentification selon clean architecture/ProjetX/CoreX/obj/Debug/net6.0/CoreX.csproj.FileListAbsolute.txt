@@ -1,0 +1,15 @@
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\bin\Debug\net6.0\CoreX.deps.json
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\bin\Debug\net6.0\CoreX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\bin\Debug\net6.0\ref\CoreX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\bin\Debug\net6.0\CoreX.pdb
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\bin\Debug\net6.0\SharedX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\bin\Debug\net6.0\SharedX.pdb
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\obj\Debug\net6.0\CoreX.csproj.AssemblyReference.cache
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\obj\Debug\net6.0\CoreX.GeneratedMSBuildEditorConfig.editorconfig
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\obj\Debug\net6.0\CoreX.AssemblyInfoInputs.cache
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\obj\Debug\net6.0\CoreX.AssemblyInfo.cs
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\obj\Debug\net6.0\CoreX.csproj.CoreCompileInputs.cache
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\obj\Debug\net6.0\CoreX.csproj.CopyComplete
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\obj\Debug\net6.0\CoreX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\obj\Debug\net6.0\ref\CoreX.dll
+D:\travaux\Cours\Testing\TP\IoT\ProjetX\CoreX\obj\Debug\net6.0\CoreX.pdb
