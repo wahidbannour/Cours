@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppCore\AppCore.csproj" />
+    <ProjectReference Include="..\InfrastructureAppTp1\InfrastructureAppTp1.csproj" />
+    <ProjectReference Include="..\SharedAppTP1\SharedAppTP1.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\SharedAppTP1\bin\Debug\net6.0\SharedAppTP1.deps.json
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\SharedAppTP1\bin\Debug\net6.0\SharedAppTP1.dll
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\SharedAppTP1\bin\Debug\net6.0\ref\SharedAppTP1.dll
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\SharedAppTP1\bin\Debug\net6.0\SharedAppTP1.pdb
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\SharedAppTP1\obj\Debug\net6.0\SharedAppTP1.csproj.AssemblyReference.cache
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\SharedAppTP1\obj\Debug\net6.0\SharedAppTP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\SharedAppTP1\obj\Debug\net6.0\SharedAppTP1.AssemblyInfoInputs.cache
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\SharedAppTP1\obj\Debug\net6.0\SharedAppTP1.AssemblyInfo.cs
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\SharedAppTP1\obj\Debug\net6.0\SharedAppTP1.csproj.CoreCompileInputs.cache
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\SharedAppTP1\obj\Debug\net6.0\SharedAppTP1.dll
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\SharedAppTP1\obj\Debug\net6.0\ref\SharedAppTP1.dll
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\SharedAppTP1\obj\Debug\net6.0\SharedAppTP1.pdb

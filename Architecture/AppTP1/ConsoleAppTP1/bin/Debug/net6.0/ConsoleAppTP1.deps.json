@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleAppTP1/1.0.0": {
+        "dependencies": {
+          "AppCore": "1.0.0",
+          "InfrastructureAppTp1": "1.0.0",
+          "SharedAppTP1": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppTP1.dll": {}
+        }
+      },
+      "AppCore/1.0.0": {
+        "dependencies": {
+          "SharedAppTP1": "1.0.0"
+        },
+        "runtime": {
+          "AppCore.dll": {}
+        }
+      },
+      "InfrastructureAppTp1/1.0.0": {
+        "dependencies": {
+          "SharedAppTP1": "1.0.0"
+        },
+        "runtime": {
+          "InfrastructureAppTp1.dll": {}
+        }
+      },
+      "SharedAppTP1/1.0.0": {
+        "runtime": {
+          "SharedAppTP1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppTP1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InfrastructureAppTp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedAppTP1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

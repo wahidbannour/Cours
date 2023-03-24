@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "362f98fc-f9df-4a47-88f9-0db73d617f53": {
+      "ProjectGuid": "362f98fc-f9df-4a47-88f9-0db73d617f53",
+      "DisplayName": "SharedAppTP1",
+      "ColorIndex": 0
+    },
+    "27075896-ac01-408a-94b2-e8d7d32b1cd0": {
+      "ProjectGuid": "27075896-ac01-408a-94b2-e8d7d32b1cd0",
+      "DisplayName": "AppCore",
+      "ColorIndex": 1
+    },
+    "bba7b0fe-ed3c-4228-a131-a95b67b91016": {
+      "ProjectGuid": "bba7b0fe-ed3c-4228-a131-a95b67b91016",
+      "DisplayName": "InfrastructureAppTp1",
+      "ColorIndex": 2
+    },
+    "e91ced9e-a2ab-41bc-9424-885f4e46a74e": {
+      "ProjectGuid": "e91ced9e-a2ab-41bc-9424-885f4e46a74e",
+      "DisplayName": "ConsoleAppTP1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

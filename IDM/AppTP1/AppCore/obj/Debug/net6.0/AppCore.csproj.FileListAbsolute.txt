@@ -1,0 +1,15 @@
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\bin\Debug\net6.0\AppCore.deps.json
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\bin\Debug\net6.0\AppCore.dll
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\bin\Debug\net6.0\ref\AppCore.dll
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\bin\Debug\net6.0\AppCore.pdb
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\bin\Debug\net6.0\SharedAppTP1.dll
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\bin\Debug\net6.0\SharedAppTP1.pdb
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\obj\Debug\net6.0\AppCore.csproj.AssemblyReference.cache
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\obj\Debug\net6.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\obj\Debug\net6.0\AppCore.AssemblyInfoInputs.cache
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\obj\Debug\net6.0\AppCore.AssemblyInfo.cs
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\obj\Debug\net6.0\AppCore.csproj.CoreCompileInputs.cache
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\obj\Debug\net6.0\AppCore.csproj.CopyComplete
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\obj\Debug\net6.0\AppCore.dll
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\obj\Debug\net6.0\ref\AppCore.dll
+D:\travaux\Cours\Testing\TP\IoT\AppTP1\AppCore\obj\Debug\net6.0\AppCore.pdb
