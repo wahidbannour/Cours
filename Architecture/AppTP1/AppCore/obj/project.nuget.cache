@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ev7rgueNkpWh6vm98j/AVvKy3gZMe0mXxbLtwyypQwL/Mf5f2/PzItqc6KjNDmBcdcNBpkxM7OiAYRCDv1KObw==",
+  "dgSpecHash": "oK0LtEf6GUSC5SU4HoOdfSPPWMzHm7pGDMxg0EEtdUulgJJV1qpsjnBaOaRn+ja/FFkv7504o18a4eTKtBhgyw==",
   "success": true,
-  "projectFilePath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\AppTP1\\AppCore\\AppCore.csproj",
+  "projectFilePath": "D:\\travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\AppTP1\\AppCore\\AppCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

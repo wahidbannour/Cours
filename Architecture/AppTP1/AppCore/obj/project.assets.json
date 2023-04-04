@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\AppTP1\\AppCore\\AppCore.csproj",
+      "projectUniqueName": "D:\\travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\AppTP1\\AppCore\\AppCore.csproj",
       "projectName": "AppCore",
-      "projectPath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\AppTP1\\AppCore\\AppCore.csproj",
+      "projectPath": "D:\\travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\AppTP1\\AppCore\\AppCore.csproj",
       "packagesPath": "C:\\Users\\Wahid\\.nuget\\packages\\",
-      "outputPath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\AppTP1\\AppCore\\obj\\",
+      "outputPath": "D:\\travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\AppTP1\\AppCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,14 +52,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\travaux\\Cours\\Testing\\TP\\IoT\\AppTP1\\SharedAppTP1\\SharedAppTP1.csproj": {
-              "projectPath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\AppTP1\\SharedAppTP1\\SharedAppTP1.csproj"
+            "D:\\travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\AppTP1\\SharedAppTP1\\SharedAppTP1.csproj": {
+              "projectPath": "D:\\travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\AppTP1\\SharedAppTP1\\SharedAppTP1.csproj"
             }
           }
         }
@@ -79,7 +80,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -88,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

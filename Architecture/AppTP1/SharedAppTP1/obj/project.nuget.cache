@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fJ4eaokvBb1uHbvgSkbgWJ586mdv0GUWzbxdMPzgzWWYhQvSSp+eTbGD6ac56yv6CV3l6OWxcSjoH5YKsj+d2Q==",
+  "dgSpecHash": "Nkic1vVHCNpXXipJvyOSG4PPU3pgMGk7lUpG/vYNLGIUVZdEYGa0i/aABxvMWF90BWxEyhZYc0ExD+vLMxTffQ==",
   "success": true,
-  "projectFilePath": "D:\\travaux\\Cours\\Testing\\TP\\IoT\\AppTP1\\SharedAppTP1\\SharedAppTP1.csproj",
+  "projectFilePath": "D:\\travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\AppTP1\\SharedAppTP1\\SharedAppTP1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
