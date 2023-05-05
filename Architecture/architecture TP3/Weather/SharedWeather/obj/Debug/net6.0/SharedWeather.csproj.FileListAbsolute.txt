@@ -1,0 +1,12 @@
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\SharedWeather\bin\Debug\net6.0\SharedWeather.deps.json
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\SharedWeather\bin\Debug\net6.0\SharedWeather.dll
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\SharedWeather\bin\Debug\net6.0\SharedWeather.pdb
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\SharedWeather\obj\Debug\net6.0\SharedWeather.csproj.AssemblyReference.cache
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\SharedWeather\obj\Debug\net6.0\SharedWeather.GeneratedMSBuildEditorConfig.editorconfig
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\SharedWeather\obj\Debug\net6.0\SharedWeather.AssemblyInfoInputs.cache
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\SharedWeather\obj\Debug\net6.0\SharedWeather.AssemblyInfo.cs
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\SharedWeather\obj\Debug\net6.0\SharedWeather.csproj.CoreCompileInputs.cache
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\SharedWeather\obj\Debug\net6.0\SharedWeather.dll
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\SharedWeather\obj\Debug\net6.0\refint\SharedWeather.dll
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\SharedWeather\obj\Debug\net6.0\SharedWeather.pdb
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\SharedWeather\obj\Debug\net6.0\ref\SharedWeather.dll

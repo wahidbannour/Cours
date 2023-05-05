@@ -1,0 +1,10 @@
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\WeahterLib\bin\Debug\netstandard2.0\WeatherLib.deps.json
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\WeahterLib\bin\Debug\netstandard2.0\WeatherLib.dll
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\WeahterLib\bin\Debug\netstandard2.0\WeatherLib.pdb
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\WeahterLib\obj\Debug\netstandard2.0\WeahterLib.csproj.AssemblyReference.cache
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\WeahterLib\obj\Debug\netstandard2.0\WeahterLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\WeahterLib\obj\Debug\netstandard2.0\WeahterLib.AssemblyInfoInputs.cache
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\WeahterLib\obj\Debug\netstandard2.0\WeahterLib.AssemblyInfo.cs
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\WeahterLib\obj\Debug\netstandard2.0\WeahterLib.csproj.CoreCompileInputs.cache
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\WeahterLib\obj\Debug\netstandard2.0\WeatherLib.dll
+D:\travaux\Cours\architecture logicielle\architecture TP3\Weather\WeahterLib\obj\Debug\netstandard2.0\WeatherLib.pdb

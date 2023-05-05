@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>SharedWeather</RootNamespace>
+    <AssemblyName>WeatherLib</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SharedWeather\SharedWeather.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd3442a3-8131-48b9-9115-6e2319c91cfa": {
+      "ProjectGuid": "dd3442a3-8131-48b9-9115-6e2319c91cfa",
+      "DisplayName": "WeahterLib",
+      "ColorIndex": 0
+    },
+    "a9ffe492-6059-41e3-b044-01e5eda82db9": {
+      "ProjectGuid": "a9ffe492-6059-41e3-b044-01e5eda82db9",
+      "DisplayName": "WPFweather",
+      "ColorIndex": 1
+    },
+    "60ef1e0a-ff6a-481c-afe6-33ca3ff0c6ba": {
+      "ProjectGuid": "60ef1e0a-ff6a-481c-afe6-33ca3ff0c6ba",
+      "DisplayName": "WeatherConsole",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
