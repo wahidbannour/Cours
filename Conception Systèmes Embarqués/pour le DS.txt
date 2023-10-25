@@ -1,0 +1,9 @@
+voir essentiellement la partie architecture matérielle et les définitions dans le document "2-Introduction_Embdded_systems.pdf"
+ainsi que le document "cours embarqué.pdf".
+
+voir le chaptire 5 Diagramme d’états-transitions (State machine diagram) du document "Cours UML2.pdf". Vous le trouverez
+dans le répertoire UML depuis la racine (Cours).
+
+Le répertoire TP contient les corrections des TP (avant la dernière séance).
+
+

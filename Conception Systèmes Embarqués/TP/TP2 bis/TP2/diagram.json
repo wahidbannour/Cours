@@ -1,0 +1,69 @@
+{
+    "version": 1,
+    "author": "Wahid Bannour",
+    "editor": "wokwi",
+    "serialMonitor": {
+                    "display": "always",
+                    "newline": "crlf",
+                    "convertEol": false
+                    },
+    "parts": [
+      { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": -126.53, "left": -47.97, "attrs": {} },
+      { "type": "wokwi-gnd", "id": "gnd1", "top": -38.4, "left": -279, "attrs": {} },
+      { "type": "wokwi-vcc", "id": "vcc1", "top": -258.44, "left": 192, "attrs": {} },
+      {
+        "type": "wokwi-resistor",
+        "id": "r2",
+        "top": -121.4,
+        "left": 133.55,
+        "rotate": 270,
+        "attrs": { "value": "470" }
+      },
+      { "type": "wokwi-led", "id": "led1", "top": -186, "left": 80.6, "attrs": { "color": "red" } },
+      {
+        "type": "wokwi-pushbutton",
+        "id": "btn1",
+        "top": -147.4,
+        "left": -211.2,
+        "attrs": { "color": "red", "key": "1" }
+      },
+      {
+        "type": "wokwi-led",
+        "id": "led2",
+        "top": -51.6,
+        "left": 138.2,
+        "attrs": { "color": "blue" }
+      },
+      {
+        "type": "wokwi-resistor",
+        "id": "r1",
+        "top": -35,
+        "left": 171.95,
+        "rotate": 270,
+        "attrs": { "value": "470" }
+      },
+      {
+        "type": "wokwi-pushbutton",
+        "id": "btn2",
+        "top": -51.4,
+        "left": -211.2,
+        "attrs": { "color": "blue", "key": "2" }
+      }
+    ],
+    "connections": [
+      [ "r2:1", "led1:A", "green", [ "v9.6", "h-153.6" ] ],
+      [ "r2:2", "vcc1:VCC", "green", [ "v0" ] ],
+      [ "led1:C", "esp:D22", "green", [ "v0" ] ],
+      [ "btn1:1.l", "gnd1:GND", "green", [ "h0" ] ],
+      [ "esp:D25", "btn1:2.r", "green", [ "h-33.83", "v16.03" ] ],
+      [ "esp:D19", "led2:C", "green", [ "h61.87", "v63.93", "h28.8" ] ],
+      [ "led2:A", "r1:1", "green", [ "v19.2", "h38.4" ] ],
+      [ "r1:2", "vcc1:VCC", "green", [ "h0" ] ],
+      [ "btn2:1.l", "gnd1:GND", "green", [ "h0" ] ],
+      [ "esp:D27", "btn2:2.r", "green", [ "h0" ] ],
+      [ "esp:RX0", "$serialMonitor:TX", "" ],
+      [ "esp:TX0", "$serialMonitor:RX", "" ]
+
+    ],
+    "dependencies": {}
+  }
