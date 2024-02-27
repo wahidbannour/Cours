@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "WeatherBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "WeatherShared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WeatherBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeatherBusiness.dll": {}
+        }
+      },
+      "WeatherShared/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/WeatherShared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeatherShared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherBusiness/1.0.0": {
+      "type": "project",
+      "path": "../WeatherBusiness/WeatherBusiness.csproj",
+      "msbuildProject": "../WeatherBusiness/WeatherBusiness.csproj"
+    },
+    "WeatherShared/1.0.0": {
+      "type": "project",
+      "path": "../Weather/WeatherShared.csproj",
+      "msbuildProject": "../Weather/WeatherShared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "WeatherBusiness >= 1.0.0",
+      "WeatherShared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\wahid\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\WeatherConsole\\WeatherConsole.csproj",
+      "projectName": "WeatherConsole",
+      "projectPath": "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\WeatherConsole\\WeatherConsole.csproj",
+      "packagesPath": "C:\\Users\\wahid\\.nuget\\packages\\",
+      "outputPath": "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\WeatherConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\wahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\WeatherBusiness\\WeatherBusiness.csproj": {
+              "projectPath": "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\WeatherBusiness\\WeatherBusiness.csproj"
+            },
+            "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\Weather\\WeatherShared.csproj": {
+              "projectPath": "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\Weather\\WeatherShared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

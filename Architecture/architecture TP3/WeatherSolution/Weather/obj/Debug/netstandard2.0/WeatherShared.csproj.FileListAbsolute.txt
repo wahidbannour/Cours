@@ -1,0 +1,21 @@
+C:\Users\wahid\source\repos\WeatherSolution\Weather\bin\Debug\netstandard2.0\WeatherShared.deps.json
+C:\Users\wahid\source\repos\WeatherSolution\Weather\bin\Debug\netstandard2.0\WeatherShared.dll
+C:\Users\wahid\source\repos\WeatherSolution\Weather\bin\Debug\netstandard2.0\WeatherShared.pdb
+C:\Users\wahid\source\repos\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.csproj.AssemblyReference.cache
+C:\Users\wahid\source\repos\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wahid\source\repos\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.AssemblyInfoInputs.cache
+C:\Users\wahid\source\repos\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.AssemblyInfo.cs
+C:\Users\wahid\source\repos\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.csproj.CoreCompileInputs.cache
+C:\Users\wahid\source\repos\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.dll
+C:\Users\wahid\source\repos\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.pdb
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\Weather\bin\Debug\netstandard2.0\WeatherShared.deps.json
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\Weather\bin\Debug\netstandard2.0\WeatherShared.dll
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\Weather\bin\Debug\netstandard2.0\WeatherShared.pdb
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.csproj.AssemblyReference.cache
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.AssemblyInfoInputs.cache
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.AssemblyInfo.cs
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.csproj.CoreCompileInputs.cache
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.sourcelink.json
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.dll
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\Weather\obj\Debug\netstandard2.0\WeatherShared.pdb

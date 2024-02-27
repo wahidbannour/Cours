@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeatherCrossPlatform.View.WeahterPage"
+             xmlns:viewmodel="clr-namespace:WeatherCrossPlatform.ViewModel"
+             x:DataType="viewmodel:WeatherManagerVM"
+             Title="Weather Manager"
+             Shell.NavBarIsVisible="True"
+             Shell.TabBarIsVisible="False">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Home"
+                 IconImageSource="back.png" Command="{Binding BackCommand}" />
+    </ContentPage.ToolbarItems>
+    <ScrollView HorizontalOptions="CenterAndExpand" HorizontalScrollBarVisibility="Always">
+        <VerticalStackLayout Margin="5,5">
+            <Frame BorderColor="{StaticResource Primary}" CornerRadius="5" Padding="4">
+                <Frame.Style>
+                    <Style TargetType="Frame">
+                        <Setter Property="IsEnabled" Value="True"/>
+                        <Style.Triggers>
+                            <DataTrigger TargetType="Frame" Binding="{Binding IsStarted}" Value="True">
+                                <Setter Property="IsEnabled" Value="False"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Frame.Style>
+                <StackLayout>
+                    <Label Text="Configurate Weather Parameter"
+                           Style="{StaticResource  SubHeadline}"
+                           VerticalOptions="Center" 
+                           HorizontalOptions="Center" />
+                    <HorizontalStackLayout Margin="15,5" HorizontalOptions="StartAndExpand" Spacing="7" >
+                        <Label Text="Use Temperature" VerticalOptions="Center"/>
+                        <Switch x:Name="Temp" IsToggled="{Binding HasTemperature}" VerticalOptions="Center"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Margin="15,5" HorizontalOptions="StartAndExpand" Spacing="7">
+                        <Label Text="Use Precipitation" VerticalOptions="Center"/>
+                        <Switch x:Name="Precep" IsToggled="{Binding HasPrecipitation}"  VerticalOptions="Center"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Margin="15,5" HorizontalOptions="StartAndExpand" Spacing="7">
+                        <Label Text="Use Pression" VerticalOptions="Center"/>
+                        <Switch x:Name="Pres" IsToggled="{Binding HasPression}"  VerticalOptions="Center"  Margin="27,0"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Margin="15,5" HorizontalOptions="StartAndExpand" Spacing="7">
+                        <Label Text="Use Wind" VerticalOptions="Center"/>
+                        <Switch x:Name="Win" IsToggled="{Binding HasWind}"  VerticalOptions="Center" Margin="45,0"/>
+                    </HorizontalStackLayout>
+                </StackLayout>    
+            </Frame>
+            
+            <HorizontalStackLayout Margin="15,15" HorizontalOptions="CenterAndExpand" Spacing="7">
+                <Button Text="Start" Command="{Binding StartCommand}"/>
+                <Button Text="Stop" Command="{Binding StopCommand}"/>
+                <ActivityIndicator IsRunning="{Binding IsStarted}"
+                                 Color="{StaticResource Primary}" />
+            </HorizontalStackLayout>
+            <FlexLayout   Direction="Row" JustifyContent="Center" Wrap="Wrap">
+                <VerticalStackLayout IsVisible="{Binding Source={x:Reference Temp}, Path=IsToggled}" Margin="10,0">
+                    <HorizontalStackLayout Spacing="7" >
+                        <Image Source="temperature.png" WidthRequest="30" HeightRequest="50"/>
+                        <Label Text="Temp (°C)" FontAttributes="Bold" VerticalOptions="Center"/>
+                    </HorizontalStackLayout>
+                    <Label Text="{Binding Temperature}" FontSize="Small" HorizontalOptions="Center" Margin="0,10"/>
+                </VerticalStackLayout>
+                <VerticalStackLayout IsVisible="{Binding Source={x:Reference Win}, Path=IsToggled}" Margin="10,0">
+                    <HorizontalStackLayout Spacing="7">
+                        <Image Source="wind.png"  WidthRequest="30" HeightRequest="50"/>
+                        <Label Text="Wind (Km)" FontAttributes="Bold" VerticalOptions="Center"/>
+                    </HorizontalStackLayout>
+                    <Label Text="{Binding Wind}" FontSize="Small" HorizontalOptions="Center" Margin="0,10"/>
+                </VerticalStackLayout>
+                <VerticalStackLayout IsVisible="{Binding Source={x:Reference Precep}, Path=IsToggled}" Margin="10,0">
+                    <HorizontalStackLayout Spacing="7">
+                        <Image Source="precipitation.png" WidthRequest="30" HeightRequest="50"/>
+                        <Label Text="Precip (mm)" FontAttributes="Bold" VerticalOptions="Center"/>
+                    </HorizontalStackLayout>
+                    <Label Text="{Binding Precipitation}" FontSize="Small" HorizontalOptions="Center" Margin="0,10"/>
+                </VerticalStackLayout>
+                <VerticalStackLayout IsVisible="{Binding Source={x:Reference Pres}, Path=IsToggled}" Margin="10,0">
+                    <HorizontalStackLayout Spacing="7">
+                        <Image Source="pression.png" WidthRequest="30" HeightRequest="50"/>
+                        <Label Text="Pression (mBar)" FontAttributes="Bold" VerticalOptions="Center"/>
+                    </HorizontalStackLayout>
+                    <Label Text="{Binding Pression}"  FontSize="Small" HorizontalOptions="Center" Margin="0,10"/>
+                </VerticalStackLayout>
+            </FlexLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

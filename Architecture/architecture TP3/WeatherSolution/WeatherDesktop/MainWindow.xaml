@@ -1,0 +1,27 @@
+﻿<Window x:Class="WeatherDesktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeatherDesktop"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical" Margin="30,10">
+            <CheckBox x:Name="HasTemperature" Content="Has Temperature" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            <CheckBox x:Name="HasWind" Content="Has Wind" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            <CheckBox x:Name="HasPrecipitation" Content="Has Precipitation" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            <CheckBox x:Name="HasPression" Content="Has Pression" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+            <TextBlock x:Name="Resultat" Text=""/>
+            <Button x:Name="StartB" Content="Start" Click="StartB_Click"  Width="200" Height="50" Margin="10"  />
+            <Button x:Name="stopB" Content="Stop" Click="stopB_Click" Width="200" Height="50" Margin="10"  />
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,27 @@
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\bin\Debug\netstandard2.0\WeatherBusiness.deps.json
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\bin\Debug\netstandard2.0\WeatherBusiness.dll
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\bin\Debug\netstandard2.0\WeatherBusiness.pdb
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\bin\Debug\netstandard2.0\WeatherShared.dll
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\bin\Debug\netstandard2.0\WeatherShared.pdb
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.csproj.AssemblyReference.cache
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.AssemblyInfoInputs.cache
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.AssemblyInfo.cs
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.csproj.CoreCompileInputs.cache
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherB.D41C2D09.Up2Date
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.dll
+C:\Users\wahid\source\repos\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.pdb
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\bin\Debug\netstandard2.0\WeatherBusiness.deps.json
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\bin\Debug\netstandard2.0\WeatherBusiness.dll
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\bin\Debug\netstandard2.0\WeatherBusiness.pdb
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\bin\Debug\netstandard2.0\WeatherShared.dll
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\bin\Debug\netstandard2.0\WeatherShared.pdb
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.csproj.AssemblyReference.cache
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.AssemblyInfoInputs.cache
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.AssemblyInfo.cs
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.csproj.CoreCompileInputs.cache
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.sourcelink.json
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherB.D41C2D09.Up2Date
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.dll
+D:\Travaux\Cours\MDSE\MDSE Ressources\Cours\Architecture\architecture TP3\WeatherSolution\WeatherBusiness\obj\Debug\netstandard2.0\WeatherBusiness.pdb

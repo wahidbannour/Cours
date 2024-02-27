@@ -1,0 +1,154 @@
+﻿@page "/notifydata"
+
+@using Microsoft.AspNetCore.SignalR.Client
+@using Weather.Domain.Entities
+@using Weather.Domain.Services
+
+
+<PageTitle>Weather notification</PageTitle>
+
+
+@inject NavigationManager Navigation
+@inject IWeatherManager weather;
+
+<h1>Weather Info</h1>
+
+<p>This component demonstrates notifying data from weather component service.</p>
+<p>
+    <label>
+        <input type="checkbox" @bind="weatherConfig.HasTemperature" />
+        temperature
+    </label>
+    <label>
+        <input type="checkbox" @bind="weatherConfig.HasWind" />
+        wind
+    </label>
+    <label>
+        <input type="checkbox" @bind="weatherConfig.HasPrecipitation" />
+        precipitation
+    </label>
+    <label>
+        <input type="checkbox" @bind="weatherConfig.HasPression" />
+        pression
+    </label>
+</p>
+<p>
+    <button @onclick="StartCollect" disabled ="@isStarted">
+        Start collect Weather info
+    </button>
+    <button @onclick="StopCollect" disabled="@(!isStarted)">
+        Stop collect
+    </button>
+</p>
+
+@if(IsConnected)
+{
+    <p >Connected on weather component</p>
+}
+else
+{
+    <p>Connection lost with weather component</p>
+}
+
+@if (infos == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                @if (weatherConfig.HasTemperature)
+                {
+                    <th>Temp. (°C)</th>
+                }
+                @if (weatherConfig.HasWind)
+                {
+                    <th>Wind (Km)</th>
+                }
+                @if (weatherConfig.HasPrecipitation)
+                {
+                    <th>Precip. (mm)</th>
+                }
+                @if (weatherConfig.HasPression)
+                {
+                    <th>Pression(mBar)</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var info in infos)
+            {
+                <tr>
+                    @if (weatherConfig.HasTemperature)
+                    {
+                        <td>@info.Temperature</td>
+                    }
+                    @if (weatherConfig.HasWind)
+                    {
+                        <td>@info.Wind</td>
+                    }
+                    @if (weatherConfig.HasPrecipitation)
+                    {
+                        <td>@info.Precipitation</td>
+                    }
+                    @if (weatherConfig.HasPression)
+                    {
+                        <td>@info.Pression</td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<WeatherInfo>? infos;
+    private HubConnection? hubConnection;
+    private WeatherConfig weatherConfig = new WeatherConfig();
+    private bool isStarted = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        infos = new List<WeatherInfo>();
+
+        hubConnection = new HubConnectionBuilder()
+            .WithUrl(Navigation.ToAbsoluteUri("/weatherhub"))
+            .Build();
+
+        hubConnection.On<WeatherInfo>("ReceiveWeatherInfo", (info) =>
+        {
+            infos.Add(info);
+            InvokeAsync(StateHasChanged);
+        });
+
+        await hubConnection.StartAsync();
+    }
+
+    private void StartCollect()
+    {
+        weather?.SetConfig(weatherConfig);
+        weather?.StartCollect();
+        isStarted = true;
+    }
+
+    private void StopCollect()
+    {
+        infos?.Clear();
+        weather?.StopCollect();
+        isStarted = false;
+    }
+
+    public bool IsConnected =>
+        hubConnection?.State == HubConnectionState.Connected;
+
+    public async ValueTask DisposeAsync()
+    {
+        if (hubConnection is not null)
+        {
+            await hubConnection.DisposeAsync();
+        }
+    }
+
+}

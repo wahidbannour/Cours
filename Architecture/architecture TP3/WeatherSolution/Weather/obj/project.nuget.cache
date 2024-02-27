@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "peq2rdtg7Tgz+P80o7Ax9TnbLvLi7RxS8O236jRDpPcHlYzizlWPKs285v67Y6ExIMDA/Al8fEHlsf86+Up5PA==",
+  "success": true,
+  "projectFilePath": "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\Weather\\WeatherShared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wahid\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\wahid\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
