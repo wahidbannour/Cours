@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Angular Solution",
+    "Projects": [
+      {
+        "Name": "WeatherAngular\\WeatherAngular.Server\\WeatherAngular.Server.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Name": "WeatherAngular\\weatherangular.client\\weatherangular.client.esproj",
+        "Action": "Start",
+        "DebugTarget": "localhost (Edge)"
+      }
+    ]
+  }
+]

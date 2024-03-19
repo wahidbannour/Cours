@@ -17,7 +17,7 @@ builder.Services.AddResponseCompression(opts =>
           new[] { "application/octet-stream" });
 });
 
-// service for weather
+// services for weather
 builder.Services.AddSingleton<IWeatherDisplay, WeatherDisplay>();
 builder.Services.AddSingleton<IWeatherManager, WeatherManager>();
 

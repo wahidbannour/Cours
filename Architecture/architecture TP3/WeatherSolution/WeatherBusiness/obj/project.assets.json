@@ -202,11 +202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\WeatherBusiness\\WeatherBusiness.csproj",
+      "projectUniqueName": "C:\\Users\\wahid\\source\\repos\\WeatherSolution\\WeatherBusiness\\WeatherBusiness.csproj",
       "projectName": "WeatherBusiness",
-      "projectPath": "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\WeatherBusiness\\WeatherBusiness.csproj",
+      "projectPath": "C:\\Users\\wahid\\source\\repos\\WeatherSolution\\WeatherBusiness\\WeatherBusiness.csproj",
       "packagesPath": "C:\\Users\\wahid\\.nuget\\packages\\",
-      "outputPath": "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\WeatherBusiness\\obj\\",
+      "outputPath": "C:\\Users\\wahid\\source\\repos\\WeatherSolution\\WeatherBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -228,8 +228,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\Weather\\WeatherShared.csproj": {
-              "projectPath": "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\Weather\\WeatherShared.csproj"
+            "C:\\Users\\wahid\\source\\repos\\WeatherSolution\\Weather\\WeatherShared.csproj": {
+              "projectPath": "C:\\Users\\wahid\\source\\repos\\WeatherSolution\\Weather\\WeatherShared.csproj"
             }
           }
         }

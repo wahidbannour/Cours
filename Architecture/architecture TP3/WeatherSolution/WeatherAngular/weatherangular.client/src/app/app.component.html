@@ -1,0 +1,70 @@
+
+<div class="container">
+  <h1 id="tableLabel">Weather info</h1>
+
+  <p>This component demonstrates using weather component with Angular front end and ASP.NET core web API server</p>
+
+  <p *ngIf="!weathers"><em>Loading... Please refresh once the ASP.NET backend has started. See <a href="https://aka.ms/jspsintegrationangular">https://aka.ms/jspsintegrationangular</a> for more details.</em></p>
+  
+  <div style="text-align:left" >
+    <div class="container">
+      <input type="checkbox"
+              [(ngModel)]="config.hasTemperature"
+              [ngModelOptions]="{standalone: true}"
+              [disabled]="isStarted"
+              (change)="onConfigChanged()"
+             />
+      <label>Temperature</label>
+    </div>
+    <div class="container">
+      <input type="checkbox"
+              [(ngModel)]="config.hasWind"
+              [ngModelOptions]="{standalone: true}"
+              [disabled]="isStarted"
+              (change)="onConfigChanged()"/>
+      <label>Wind</label>
+    </div>
+    <div class="container">
+      <input type="checkbox"
+              [(ngModel)]="config.hasPrecipitation"
+              [ngModelOptions]="{standalone: true}"
+              [disabled]="isStarted"
+              (change)="onConfigChanged()" />
+      <label>Precipitation</label>
+    </div>
+    <div class="container">
+      <input type="checkbox"
+              [(ngModel)]="config.hasPression"
+              [ngModelOptions]="{standalone: true}"
+              [disabled]="isStarted"
+              (change)="onConfigChanged()" />
+      <label>Pressure</label>
+    </div>
+  </div>
+ 
+    <div class="container">
+      <button [disabled]="isStarted" (click)="onConfiguration()">Set configuration</button>
+      <button [disabled]="!isInitialized || isStarted" (click)="onStart()">Start</button>
+      <button [disabled]="!isStarted" (click)="onStop()">Stop</button>
+    </div>
+    <p *ngIf="isStarted">now collection weather info every {{timeLookup}} ms</p>
+    <table *ngIf="weathers" class="table">
+      <thead>
+        <tr>
+          <th *ngIf="config.hasTemperature">Temperature (°C)</th>
+          <th *ngIf="config.hasWind">Wind (Km)</th>
+          <th *ngIf="config.hasPrecipitation">Precipitation (mm)</th>
+          <th *ngIf="config.hasPression">Pressure (mBar)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let weather of weathers" class="info">
+          <td *ngIf="config.hasTemperature">{{weather.temperature}}</td>
+          <td *ngIf="config.hasWind">{{weather.wind}}</td>
+          <td *ngIf="config.hasPrecipitation">{{weather.precipitation}}</td>
+          <td *ngIf="config.hasPression">{{weather.pression}}</td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>

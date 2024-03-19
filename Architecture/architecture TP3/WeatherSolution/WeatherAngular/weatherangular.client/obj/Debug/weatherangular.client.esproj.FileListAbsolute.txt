@@ -1,0 +1,1 @@
+C:\Users\wahid\source\repos\WeatherSolution\WeatherAngular\weatherangular.client\obj\Debug\weatherangular.client.esproj.CoreCompileInputs.cache

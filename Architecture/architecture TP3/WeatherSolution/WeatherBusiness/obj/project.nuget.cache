@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Fr1E1VMO2mQbW0fJiiHSlaISu+ULuLHcl8HZj/PYtYVjxOUeJmKzFxjwH/22xv2E3SGXN6XsMsvYYfdzQPoMQ==",
+  "dgSpecHash": "BpBFd3BI8H6ewUdOWQATVvFY/l+DEHXNaeFXtkQUWLKY5hMSrlms5MODObu8k5bGUVc0vwOe1zPUo4JOxyGtRQ==",
   "success": true,
-  "projectFilePath": "D:\\Travaux\\Cours\\MDSE\\MDSE Ressources\\Cours\\Architecture\\architecture TP3\\WeatherSolution\\WeatherBusiness\\WeatherBusiness.csproj",
+  "projectFilePath": "C:\\Users\\wahid\\source\\repos\\WeatherSolution\\WeatherBusiness\\WeatherBusiness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wahid\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\wahid\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
