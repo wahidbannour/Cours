@@ -4,7 +4,7 @@
 
 
 unsigned char DigitalIoArduino::DigitalRead(unsigned char address)  {
-    return digitalRead(address*3);
+    return digitalRead(address);
 }
 
 void DigitalIoArduino::DigitalWrite(unsigned char value, unsigned char address) {
