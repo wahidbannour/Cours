@@ -9,8 +9,8 @@ Project : Oscilloscope
 #include "oscilloscope.h"
 
 
-
-#include "../lib/RingBuffer/RingBuffer.h"
+#include <RingBuffer.h>
+//#include "../lib/RingBuffer/RingBuffer.h"
 
 void ApplicationConfig();
 

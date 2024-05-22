@@ -1,0 +1,16 @@
+{
+    "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+    "name": "Ring Buffer",
+    "version": "1.0.2",
+    "description": "Circular buffer queue for data exchange between two tasks" ,
+    "keywords": "Circular buffer, task communication, ring buffer",
+    "authors":
+    [
+        {
+        "name": "Wahid Bannour",
+        "email": "bannourwahid@gmail.com"
+        }
+    ],
+    "frameworks": "*",
+    "platforms": "*"
+  }
