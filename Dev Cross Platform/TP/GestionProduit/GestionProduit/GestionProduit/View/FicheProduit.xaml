@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GestionProduit.View.FicheProduit">
+    <ContentPage.Content>
+      <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Fiche Produit" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <StackLayout Orientation="Horizontal" Margin="10">
+                <Label Text="Code"/>
+                <Entry Text="{Binding Produit.Code}" WidthRequest="200"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal"  Margin="10">
+                <Label Text="Description"/>
+                <Entry Text="{Binding Produit.Description}" WidthRequest="300"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="10">
+                <Label Text="Quantité Actuelle"/>
+                <Entry Text="{Binding Produit.QuantiteActuelle}"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="10">
+                <Label Text="Date d'initialisation"/>
+                <Entry Text="{Binding Produit.InitDate}"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="10">
+                <Label Text="Rayon"/>
+                <Entry Text="{Binding Produit.Rayon}"/>
+            </StackLayout>
+            <Button Text="Save" Command="{Binding SaveCmd}" Margin="10"/>
+            <Button Text="Modify" Command="{Binding ModifyCmd}" Margin="10"/>
+            <Button Text="Delete" Command="{Binding DeleteCmd}" Margin="10"/>
+        </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Entity",
+    "\\Infrastructure",
+    "\\Properties",
+    "\\Service",
+    "\\View",
+    "\\ViewModel"
+  ],
+  "SelectedNode": "\\GestionProduit.csproj.user",
+  "PreviewInSolutionExplorer": false
+}

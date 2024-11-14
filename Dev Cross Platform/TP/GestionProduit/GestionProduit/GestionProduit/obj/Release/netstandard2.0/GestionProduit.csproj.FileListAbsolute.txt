@@ -1,0 +1,15 @@
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\bin\Release\netstandard2.0\GestionProduit.deps.json
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\bin\Release\netstandard2.0\GestionProduit.dll
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\bin\Release\netstandard2.0\ref\GestionProduit.dll
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\bin\Release\netstandard2.0\GestionProduit.pdb
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\obj\Release\netstandard2.0\View\FicheProduit.xaml.g.cs
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\obj\Release\netstandard2.0\View\ListerProduit.xaml.g.cs
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\obj\Release\netstandard2.0\GestionProduit.AssemblyInfoInputs.cache
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\obj\Release\netstandard2.0\GestionProduit.AssemblyInfo.cs
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\obj\Release\netstandard2.0\GestionProduit.csproj.CoreCompileInputs.cache
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\obj\Release\netstandard2.0\XamlC.stamp
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\obj\Release\netstandard2.0\GestionProduit.dll
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\obj\Release\netstandard2.0\ref\GestionProduit.dll
+D:\travaux\Cours\Cross Plateform\TP\GestionProduit\GestionProduit\GestionProduit\obj\Release\netstandard2.0\GestionProduit.pdb

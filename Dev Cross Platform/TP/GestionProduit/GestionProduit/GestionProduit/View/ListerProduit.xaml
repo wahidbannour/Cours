@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GestionProduit.View.ListerProduit">
+  <ContentView.Content>
+      <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Liste des Produits" HorizontalTextAlignment="Center" TextColor="White" FontSize="36" />
+            </Frame>
+            <Picker ItemsSource="{Binding Rayons}" SelectedIndex="{Binding CodeRayon}">
+                <Picker.Items>
+                    
+
+                </Picker.Items>
+            </Picker>
+            <ListView ItemsSource="{Binding Produits}" SelectedItem="{Binding Produit}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label Text="{Binding Code}"/>
+                                <Label Text="{Binding Description}"/>
+                                <Label Text="{Binding Quantite}"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

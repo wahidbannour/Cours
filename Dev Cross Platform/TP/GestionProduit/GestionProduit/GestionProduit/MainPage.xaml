@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GestionProduit.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Gestion de Stock" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Logiciel de gestion des mouvements de stock" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Permet la création d'une fiche produit, de gérer les mouvements d'entrées et de sorties sur le stock par date et par fournisseur" FontSize="16" Padding="30,0,30,0"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Lire plus sur "/>
+                        <Span Text="https://mohetn.sharepoint.com/sites/gestionscolarite" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        <Button Text="Créer Fiche Produit" Margin="15,35,15,15" Clicked="NouveauProduit_Clicked"/>
+        <Button Text="Mouvement Entrée Produit"  Margin="15"/>
+        <Button Text="Mouvement Sortie Produit" Margin="15"/>
+        <Button Text="Lister les produits" Margin="15"/>
+    </StackLayout>
+
+</ContentPage>
